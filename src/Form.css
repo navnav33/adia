@@ -1,0 +1,23 @@
+.adia-form {
+  text-align: center;
+}
+.adia-form input {
+  display: block;
+  padding: 15px;
+  border-radius: 10px;
+
+}
+.adia-form button {
+  padding: 20px;
+  border-radius: 15px;
+  color: #fff;
+}
+
+
+.btn-black {
+  background-color: #000;
+}
+
+.btn-red{
+  background-color: #FF0000FF;
+}
